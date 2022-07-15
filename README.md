@@ -16,11 +16,13 @@ This is a list of client-side mods I STRONGLY recommend for fabric 1.19. You sho
 |Lithium|[Modrinth](https://modrinth.com/mod/lithium)||
 |Memory Leak Fix|[Modrinth](https://modrinth.com/mod/memoryleakfix)||
 |Reese's Sodium Options|[Modrinth](https://modrinth.com/mod/reeses-sodium-options)||
+|Smooth Fabric|[Modrinth](https://modrinth.com/mod/smoothboot-fabric)||
 |Sodium|[Modrinth](https://modrinth.com/mod/sodium)||
 |Sodium Extra|[Modrinth](https://modrinth.com/mod/sodium-extra)||
 |Starlight|[Modrinth](https://modrinth.com/mod/starlight)||
 |Indium|[Modrinth](https://modrinth.com/mod/indium)|Needed for Continuity to work|
 |Iris|[Modrinth](https://modrinth.com/mod/iris)|Shaders|
+|Very Many Players|[Modrinth](https://modrinth.com/mod/vmp-fabric)||
 |DashLoader|[Modrinth](https://modrinth.com/mod/dashloader)||
 
 ## APIs you need these!
