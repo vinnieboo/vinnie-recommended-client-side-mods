@@ -50,7 +50,7 @@ This is a list of client-side mods I STRONGLY recommend for fabric 1.19. You sho
 |MiniHUD|[Masa Mods port](https://kosma.pl/masamods/minihud-fabric-1.19-0.22.0.jar)||
 |Mod Menu|[Modrinth](https://modrinth.com/mod/modmenu)|Needed for a lot of mods to work properly|
 |No Chat Reports|[Modrinth](https://modrinth.com/mod/no-chat-reports)||
-|Plasmo Voice|[Modrinth](https://modrinth.com/mod/plasmo-voice)|Yes!|
+|Plasmo Voice|[Modrinth](https://modrinth.com/mod/plasmo-voice)|Won't work on my smp server unfortunately|
 |Tweakeroo|[Masa Mods port](https://kosma.pl/masamods/tweakeroo-fabric-1.19-0.13.3.jar)||
 |Preventer|[Modrinth](https://modrinth.com/mod/preventer)|Prevents you from doing dumb stuff|
 
